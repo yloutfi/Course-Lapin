@@ -1,0 +1,13 @@
+P:\BTS 2\SLAM 4\utdl\Dao\obj\Debug\Dao.csprojAssemblyReference.cache
+P:\BTS 2\SLAM 4\utdl\Dao\obj\Debug\Dao.csproj.CoreCompileInputs.cache
+P:\BTS 2\SLAM 4\utdl\Dao\bin\Debug\UtdlDao.dll.config
+P:\BTS 2\SLAM 4\utdl\Dao\bin\Debug\UtdlDao.dll
+P:\BTS 2\SLAM 4\utdl\Dao\bin\Debug\UtdlDao.pdb
+P:\BTS 2\SLAM 4\utdl\Dao\bin\Debug\Model.dll
+P:\BTS 2\SLAM 4\utdl\Dao\bin\Debug\MySql.Data.dll
+P:\BTS 2\SLAM 4\utdl\Dao\bin\Debug\Model.pdb
+P:\BTS 2\SLAM 4\utdl\Dao\bin\Debug\Model.dll.config
+P:\BTS 2\SLAM 4\utdl\Dao\bin\Debug\MySql.Data.xml
+P:\BTS 2\SLAM 4\utdl\Dao\obj\Debug\Dao.csproj.CopyComplete
+P:\BTS 2\SLAM 4\utdl\Dao\obj\Debug\UtdlDao.dll
+P:\BTS 2\SLAM 4\utdl\Dao\obj\Debug\UtdlDao.pdb
